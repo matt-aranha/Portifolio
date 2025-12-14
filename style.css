@@ -82,6 +82,8 @@ span {                              /* efeito de degradê no meu sobrenome*/
 
 .gradient-btn {
     font-size: 1.8rem;
+    display: inline-block;
+    font-weight: 500;
     padding: 1rem 2rem;
     border-radius: 3rem;
     background: linear-gradient(
