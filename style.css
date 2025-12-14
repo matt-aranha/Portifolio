@@ -11,7 +11,7 @@
     --bg-color: #080808;
     --second-bg-color: #101010;
     --text-color: #ffff;
-    --main-color: #ea580c;                     /* por enquanto */
+    --main-color: #8f0ec2;                     /* por enquanto */
 }
 
 html {
@@ -60,8 +60,8 @@ body {
 span {                              /* efeito de degradê no meu sobrenome*/
     background: linear-gradient(
         270deg,
-        #DF8908 10%,
-        #ff1d15 100%
+        #bb08df 10%,
+        #ff156f 100%
     );
     background-clip: text;
     color: transparent;
@@ -88,8 +88,8 @@ span {                              /* efeito de degradê no meu sobrenome*/
     border-radius: 3rem;
     background: linear-gradient(
         270deg,
-        #DF8908 10%,
-        #ff1d15 100%
+        #bb08df 10%,
+        #ff156f 100%
     );
     letter-spacing: 1px;
     cursor: pointer;
@@ -228,7 +228,7 @@ section {
     text-align: left;
 }
 .about-content p {
-    font-size: 1.8rem;
+    font-size: 2.5rem;
 }
 .about-content .btn {
     margin: 3rem 0;
@@ -306,7 +306,7 @@ section {
     font-weight: 800;
 }
 .service-info p {
-    font-size: 1.4rem;
+    font-size: 2.1rem;
     font-weight: 600;
     line-height: 1.7;
 }
@@ -360,7 +360,7 @@ section {
     font-size: 3rem;
 }
 .project-card p {
-    font-size: 1.6rem;
+    font-size: 2rem;
 }
 
 
