@@ -2,7 +2,7 @@
 
 ![Preview do Site](assets/SitePortfolio.png)
 
-> *Site portfólio desenvolvido para apresentar meus projetos, habilidades e experiências na área de Engenharia da Computação.*
+> *Site portfólio desenvolvido para apresentar meus projetos, habilidades e experiências na área de Computação.*
 
 ## 💻 Sobre o Projeto
 
@@ -35,7 +35,7 @@ O projeto foi construído, sem o uso de frameworks, apenas utilizando o tripé b
 ## 🔗 Deploy
 
 Você pode visualizar o projeto online através do link:
-**[link GitHub Pages]**
+**https://matt-aranha.github.io/Portifolio/**
 
 
 ---
