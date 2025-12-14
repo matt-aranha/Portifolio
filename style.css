@@ -380,7 +380,7 @@ section {
     margin: 5rem 0;
     text-align: center;
 }
-.contact form ,input-box input,
+.contact form .input-box input,
 .contact form textarea {
     width: 100%;
     padding: 2.5rem;
